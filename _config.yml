@@ -23,7 +23,7 @@ repository               : "dtlac/dtlac.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.jpg"
   name             : "Your Sidebar Name"
   pronouns         : "She/her/hers" # example: "she/her"  
   bio              : "Research scientist"
