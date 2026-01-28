@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# **Welcome to my scientific journey!**
+**Welcome to my scientific journey!**
 
 > *“It’s not the years in your life that count; it’s the life in your years”*
 > <p align="right">- Abraham Lincoln.</p> 
