@@ -2,7 +2,8 @@
 title: "De novo evolution of macroscopic multicellularity"
 collection: publications
 category: manuscripts
-permalink: /publications/De-novo-evolution-of-macroscopic-multicellularity
+permalink: /publication/De-novo-evolution-of-macroscopic-multicellularity
+excerpt:
 date: 2023-5-25
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-023-06052-1'
