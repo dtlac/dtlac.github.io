@@ -24,11 +24,11 @@ repository               : "dtlac/dtlac.github.io"
 author:
   # Biographic information
   avatar           : "Profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Dung Thuy Lac"
   pronouns         : "She/her/hers" # example: "she/her"  
   bio              : "Research scientist"
   location         : "Atlanta, Georgia"
-  employer         : "Georgia Institute of Technology"
+  employer         : "Ratcliff Lab, Georgia Institute of Technology"
   #uri              : # URL
   email            : "dlac3@gatech.edu" 
 
