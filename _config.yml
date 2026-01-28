@@ -28,7 +28,7 @@ author:
   pronouns         : "She/her/hers" # example: "she/her"  
   bio              : "Research scientist"
   location         : "Atlanta, Georgia"
-  employer         : "Ratcliff Lab, Georgia Institute of Technology"
+  employer         : "Ratcliff Lab" <br/>"Georgia Institute of Technology"
   #uri              : # URL
   email            : "dlac3@gatech.edu" 
 
