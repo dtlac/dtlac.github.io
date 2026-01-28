@@ -3,7 +3,7 @@ title: "De novo evolution of macroscopic multicellularity"
 collection: publications
 category: manuscripts
 permalink: /publications/De-novo-evolution-of-macroscopic-multicellularity
-date: 2023/5/25
+date: 2023-5-25
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-023-06052-1'
 citation: 'Bozdag, G.O., Zamani-Dahaj, S.A., Day, T.C., **Dung T.L**, et al. De novo evolution of macroscopic multicellularity. Nature 617, 747–754 (2023). https://doi.org/10.1038/s41586-023-06052-1'
