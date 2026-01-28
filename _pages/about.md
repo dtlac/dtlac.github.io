@@ -1,9 +1,11 @@
-permalink	excerpt	author_profile	redirect_from
-/
-About me
-true
-/about/
-/about.html
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 > *“It’s not the years in your life that count; it’s the life in your years”*
 > <p align="right">- Abraham Lincoln.</p> 
 
