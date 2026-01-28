@@ -3,9 +3,9 @@ title: "De novo evolution of macroscopic multicellularity"
 collection: publications
 category: manuscripts
 permalink: /publication/De_novo_evolution_of_macroscopic_multicellularity
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023/5/25
-venue: 'Journal 1'
+venue: 'Nature'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41586-023-06052-1)'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
