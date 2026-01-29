@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Proteostatic tuning underpins the evolution of novel multicellular traits"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Proteostatic-tuning-underpins-the-evolution-of-novel-multicellular-traits
+excerpt: 
+date: 2024-03-08
+venue: 'Science Advances'
+paperurl: '(https://www.science.org/doi/full/10.1126/sciadv.adn2706)'
+authors: 'Kristopher Montrose, <b>Dung T Lac</b>, Anthony J Burnetti, Kai Tong, G Ozan Bozdag, Mikaela Hukkanen, William C Ratcliff, Juha Saarikangas
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Using the MuLTEE long-term evolution experiment, we show that increased multicellular size and toughness arise through cellular elongation driven by down-regulation of the chaperone Hsp90, which delays mitosis by destabilizing the kinase Cdc28. These results reveal how tuning ancient protein-folding systems can uncover new developmental phenotypes and fuel evolutionary transitions in biological individuality.
