@@ -6,6 +6,7 @@ permalink: /publication/CMCS-HEC-hydrogel
 excerpt: 
 date: 2023-4-01
 venue: 'Journal of Drug Delivery Science and Technology'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1773224723001703'
 authors: 'Khanh-Thien Le, Cong-Thuan Nguyen, <b>Thuy-Dung Lac</b>, Le-Giang Thi Nguyen, Thuoc Linh Tran, Hieu Tran-Van'
 ---
 
