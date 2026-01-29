@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Facilely preparing carboxymethyl chitosan/hydroxyethyl cellulose hydrogel films for protective and sustained release of fibroblast growth factor 2 to accelerate dermal tissue repair"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/CMCS-HEC-hydrogel
+excerpt: 
+date: 2023-4-01
+venue: 'Journal of Drug Delivery Science and Technology'
+authors: 'Khanh-Thien Le, Cong-Thuan Nguyen, <b>Thuy-Dung Lac<b\>, Le-Giang Thi Nguyen, Thuoc Linh Tran, Hieu Tran-Van'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+FGF-2 is a powerful driver of wound healing, but its clinical potential has been limited by instability and rapid degradation. This study shows that CMCS/HEC hydrogel films can protect FGF-2 and release it in a sustained, bioactive form, enhancing fibroblast proliferation and growth factor stability. In a murine burn model, FGF-2–loaded hydrogels accelerated tissue regeneration, promoted angiogenesis, and reduced scarring.
