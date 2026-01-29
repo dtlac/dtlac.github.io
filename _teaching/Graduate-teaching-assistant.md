@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Graduate-teaching-assistant
 venue: "Georgia State University, Biology Department"
-date: 2019-01-01
+start_year: 2019
+end_year: 2020
 location: "Atlanta, Georgia"
 ---
 
