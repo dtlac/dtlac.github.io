@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Abscicon-2024
 excerpt: 
 date: 2024-05-01
-venue: 'Abscicon 2024'
+venue: 'AbSciCon 2024'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2024absc.conf00132D/abstract'
 citation: 'Datta, Sayantan ; Tong, Kai ; <b>Lac, Dung</b> ; Bozdag, Gonensin Ozan ; Ratcliff, William C.'
 ---
