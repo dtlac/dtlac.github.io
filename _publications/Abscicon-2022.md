@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Abscicon-2022
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2022-05-01
-venue: 'Abscicon 2022"
+venue: 'Abscicon 2022'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022absc.conf11804L/abstract'
 citation: '<b>Lac, Dung</b> ; Burnetti, Anthony J. ; Tong, Kai ; Cheng, Vivian ; Bozdag, Gonensin Ozan ; Montrose, Kristopher P. ; Saarikangas, Juha Oskari ; Ratcliff, William C.'
 ---
