@@ -23,17 +23,17 @@ Academic positions
 ======
 **May 2024 - Now | Research Scientist I – Georgia Institute of Technology** 
   
-⋅⋅⋅⋅* Research interests: Experimental evolution, origin of multicelularity, molecular biology, synthetic biology
-⋅⋅⋅⋅* Responsibilities: Conducting evolutionary experiments; data analysis; writing scientific manuscripts; training new students, technicians, and lab members; assist current students, postdocs, and lab members, and inventory management
+  * Research interests: Experimental evolution, origin of multicelularity, molecular biology, synthetic biology
+  * Responsibilities: Conducting evolutionary experiments; data analysis; writing scientific manuscripts; training new students, technicians, and lab members; assist current students, postdocs, and lab members, and inventory management
   
 **August 2021-April 2024 | Research Technician I – Georgia Institute of Technology** 
   
-⋅⋅⋅⋅* Research interests: Experimental evolution, origin of multicelularity, molecular biology, synthetic biology
-⋅⋅⋅⋅* Responsibilities: Conducting evolutionary experiments, data analysis, and inventory management
+  * Research interests: Experimental evolution, origin of multicelularity, molecular biology, synthetic biology
+  * Responsibilities: Conducting evolutionary experiments, data analysis, and inventory management
   
 **August 2019 – December 2020 | Graduate Teaching Assistant – Biology Department, Georgia State University**
   
-⋅⋅⋅⋅* Responsibilities: Managing classroom, lecturing course-related materials, demonstrating experiments, and evaluating students' performance
+  * Responsibilities: Managing classroom, lecturing course-related materials, demonstrating experiments, and evaluating students' performance
 
 Publications
 ======
