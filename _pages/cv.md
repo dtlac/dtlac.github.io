@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+Education
 ======
 **2020 \| M.S. in Biology, Georgia State University, Atlanta, Georgia, United States**
 
@@ -19,7 +19,7 @@ Research interests: Microbiology, Host-microbiome interaction, Bioinformatics, Q
 
 Research interests: Biomaterials, CSMS/HEC hydrogel, FGF-2, Wound healing
 
-#Academic positions
+Academic positions
 ======
 **May 2024 - Now \| Research Scientist I – Georgia Institute of Technology** 
   
@@ -35,27 +35,27 @@ Research interests: Biomaterials, CSMS/HEC hydrogel, FGF-2, Wound healing
   
   * Responsibilities: Managing classroom, lecturing course-related materials, demonstrating experiments, and evaluating students' performance
 
-#Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-#Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Service and leadership
+Service and leadership
 ======
 
-#Qualifications
+Qualifications
 ======
 
