@@ -17,7 +17,7 @@ Research interests: Microbiology, Host-microbiome interaction, Bioinformatics, Q
 
 **2016 \| B.S. in Biotechnology, University of Science, Ho Chi Minh city, Viet Nam**
 
-Research interests: Biomaterials, CSMS/HEC hydrogel, FGF-2, Wound healing
+Research interests: Biomaterials, CSMS/HEC hydrogel, FGF-2, Targeted drug delivery, Wound healing
 
 Academic positions
 ======
