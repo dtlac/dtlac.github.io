@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2020 | M.S. in Biology, Georgia State University, Atlanta, Georgia, United States
+* 2016 | B.S. in Biotechnology, University of Science, Ho Chi Minh city, Viet Nam
 
-Work experience
+Academic positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**May 2024 - Now | Research Scientist I – Georgia Institute of Technology** 
+• Conducting evolutionary experiments, data analysis
+• Writing scientific manuscripts
+• Training new students, technicians, and lab members
+• Advise and assist current students, postdocs, and lab members
+• Inventory management: Managing procurements; monitoring laboratory inventory and distribution of research materials
+**August 2021-April 2024 | Research Technician I – Georgia Institute of Technology** 
+• Conducting evolutionary experiments, data analysis
+• Inventory management: Managing procurements; monitoring laboratory inventory and distribution of research materials
+**August 2019 – December 2020 | Graduate Teaching Assistant – Biology Department, Georgia State University**
+• Managing classroom , lecturing course-related materials, demonstrating experiments, and evaluating students' performance
 
 Publications
 ======
@@ -61,4 +48,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+Qualifications
+======
+
