@@ -13,6 +13,7 @@ Education
 ======
 **2020 - M.S. in Biology, Georgia State University, Atlanta, Georgia, United States**
   Microbiology, Host-microbiome interaction, Bioinformatics, Qiime2, *L. dalli*
+
 **2016 - B.S. in Biotechnology, University of Science, Ho Chi Minh city, Viet Nam**
   Biomaterials, CSMS/HEC hydrogel, FGF-2, Wound healing
 
