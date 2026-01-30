@@ -11,7 +11,7 @@ redirect_from:
 > *“It’s not the years in your life that count; it’s the life in your years”*
 > <p align="right">- Abraham Lincoln.</p> 
 
-My scientific path is intentionally interdisciplinary. I began with a BSc in Biotechnology at University of Science in Ho Chi Minh city, Viet Nam, where I worked on biomaterials and hydrogel-based drug delivery systems for tissue repair with [Dr. Hieu Tran-Van](https://scholar.google.com/citations?user=u90y7U4AAAAJ&hl=en) and the [GMIF Biomedical Research Group](https://www.facebook.com/BioMed.GMIF/about). This early training shaped how I think about biological structure, material properties, and function.
+My scientific path is quite interdisciplinary. I began with a BSc in Biotechnology at University of Science in Ho Chi Minh city, Viet Nam, where I worked on biomaterials and hydrogel-based drug delivery systems for tissue repair with [Dr. Hieu Tran-Van](https://scholar.google.com/citations?user=u90y7U4AAAAJ&hl=en) and the [GMIF Biomedical Research Group](https://www.facebook.com/BioMed.GMIF/about). This early training shaped how I think about biological structure, material properties, and function.
 
 I went on to complete an MSc in Biology at Georgia State University in Atlanta, Georgia, focusing on microbiome research and host–microbiome interactions with [Dr Kuk-Jeong Chin](https://cas.gsu.edu/profile/kuk-jeong-chin/). This phase of my training provided hands-on experimental experience with microbial systems and molecular techniques, and it played a key role in preparing me to move into my career in biological research.
 
