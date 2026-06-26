@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary capacitance driven by Hsp90 in the de novo evolution of multicellularity"
+title: "Evolutionary capacitance driven by Hsp90 in the *de novo* evolution of multicellularity"
 collection: talks
 type: "Talk"
 permalink: /talks/Evolution-2026
